@@ -1,23 +1,39 @@
 XR-1 Material List
 ==================
+General Hardware
+100 M2.5 12mm Socket Head Cap
+    https://www.aliexpress.us/item/2251832624557792.html
+100 M2.5 14mm Socket Head Cap
+    https://www.aliexpress.us/item/2251832624557792.html
 
 HEAD
 ====
 
 Torso
 =====
+3  150kg 180 degree servos and 1 metal servo wheels 
+   Link: https://www.aliexpress.us/item/2251832054601335.html
+4  SI8T/K M8 Hole 8Mm Ball Joint
+   Link: https://www.aliexpress.us/item/2251832783623262.html
 
 Arms
 ====
+2  150kg 270 degree servos and 2 metal servo wheels 
+   Link: https://www.aliexpress.us/item/2251832054601335.html
+4  150kg 180 degree servos and 4 metal servo wheels 
+   Link: https://www.aliexpress.us/item/2251832054601335.html
+2  6813RS 65x85x10 Sealed Ball Bearings
+   Link: https://www.aliexpress.us/item/2251832424776561.html
 6  SPT 4420LV 20kg Low Profile Servo with metal servo wheels
    Link: https://www.aliexpress.us/item/3256805772412203.html
+
 Hands
 =====
 
 Legs
 ====
-12 150kg 180 degree servos and metal servo wheels 
+12 150kg 180 degree servos and 12 metal servo wheels 
    Link: https://www.aliexpress.us/item/2251832054601335.html
-16 6808RS ball bearings 40x52x7 mm
+22 6808RS ball bearings 40x52x7 mm
    Link: https://www.aliexpress.us/item/2251832634050198.html
 10 
