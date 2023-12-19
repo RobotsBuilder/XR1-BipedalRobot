@@ -1,8 +1,6 @@
-# XR1-BipedalRobot
-XR1-Full Huminod Robot
+#XR-1 BipedalRobot
+DIY Robot Build Project Repository
 
-
-XR-1 DIY Robot Build Project Repository
 Welcome to the official GitHub repository for the XR-1 DIY Robot Build Project, meticulously crafted and developed by Christopher Calleja & Shawn Miller.
 
 As of now, the XR-1 is exclusively accessible to private members due to its ongoing development phase. Once it reaches the 90% completion stage, we plan to release this repository to the public.
