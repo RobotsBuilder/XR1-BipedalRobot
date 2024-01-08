@@ -1,10 +1,24 @@
 XR-1 Material List
 ==================
+
 General Hardware
+================
 100 M2.5 12mm Socket Head Cap
     https://www.aliexpress.us/item/2251832624557792.html
 100 M2.5 14mm Socket Head Cap
     https://www.aliexpress.us/item/2251832624557792.html
+
+Recommended Control Electronics
+===============================
+1 MOREFINE M6S Mini PC Intel 12th Gen N100 12G DDR5 256GB
+  Link: https://www.aliexpress.us/item/3256805389679163.html
+2 Mega2560 Mega 2560 PRO MINI 5V (Embed) CH340G ATmega2560-16AU MICRO TYPE-C with male pinheaders
+  Link: https://www.aliexpress.us/item/3256805737261503.html
+3 Arduino Nano With the bootloader compatible Nano 3.0 controller for arduino CH340 USB driver 16Mhz Nano v3.0 ATMEGA328P/168P
+  Link: https://www.aliexpress.us/item/2255800717129704.html
+1 SULIST car 10-36V to 12V voltage regulator DC to DC buck-boost power supply regulator module 30A
+  Link: https://www.aliexpress.us/item/3256805708222246.html
+
 
 HEAD (Iron Man)
 ====
