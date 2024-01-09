@@ -1,0 +1,84 @@
+Date Published: 9/1/2024
+==================
+XR-1 Material List
+==================
+
+General Hardware
+================
+100 M2.5 12mm Socket Head Cap
+    https://www.aliexpress.us/item/2251832624557792.html
+100 M2.5 14mm Socket Head Cap
+    https://www.aliexpress.us/item/2251832624557792.html
+
+Recommended Control Electronics
+===============================
+1 MOREFINE M6S Mini PC Intel 12th Gen N100 12G DDR5 256GB
+  Link: https://www.aliexpress.us/item/3256805389679163.html
+2 Mega2560 Mega 2560 PRO MINI 5V (Embed) CH340G ATmega2560-16AU MICRO TYPE-C with male pinheaders
+  Link: https://www.aliexpress.us/item/3256805737261503.html
+3 Arduino Nano With the bootloader compatible Nano 3.0 controller for arduino CH340 USB driver 16Mhz Nano v3.0 ATMEGA328P/168P
+  Link: https://www.aliexpress.us/item/2255800717129704.html
+1 SULIST car 10-36V to 12V voltage regulator DC to DC buck-boost power supply regulator module 30A
+  Link: https://www.aliexpress.us/item/3256805708222246.html
+
+
+HEAD (Iron Man)
+====
+3  40Kg High Speed servo Metal Gear Digital Servo
+   https://www.aliexpress.us/item/2251801756814911.html
+4  SI8T/K M8 Hole 8Mm Ball Joint
+   Link: https://www.aliexpress.us/item/2251832783623262.html
+1  Screws M8x15
+4  Screws M8x20
+4  Screws M8x25
+16 Screws M3x10
+8  Screws M3x15
+
+Torso
+=====
+3  150kg 180 degree servos and 1 metal servo wheels 
+   Link: https://www.aliexpress.us/item/2251832054601335.html
+4  SI8T/K M8 Hole 8Mm Ball Joint
+   Link: https://www.aliexpress.us/item/2251832783623262.html
+1  6808RS ball bearings 40x52x7 mm
+   Link: https://www.aliexpress.us/item/2251832634050198.html
+4  Screws M12x30mm
+12  Screws M5x15mm
+   Link: https://www.aliexpress.us/item/2251832760640149.html
+4  Screws M8x25
+8  Self-tapping Screw M2x8
+4  Self-tapping Screw M2x15
+
+Arms
+====
+2  40Kg High Speed servo Metal Gear Digital Servo
+   https://www.aliexpress.us/item/2251801756814911.html
+2  150kg 270 degree servos and 2 metal servo wheels 
+   Link: https://www.aliexpress.us/item/2251832054601335.html
+4  150kg 180 degree servos and 4 metal servo wheels 
+   Link: https://www.aliexpress.us/item/2251832054601335.html
+2  6813RS 65x85x10 Sealed Ball Bearings
+   Link: https://www.aliexpress.us/item/2251832424776561.html
+12 6808RS ball bearings 40x52x7 mm
+   Link: https://www.aliexpress.us/item/2251832634050198.html
+6  SPT 4420LV 20kg Low Profile Servo with metal servo wheels
+   Link: https://www.aliexpress.us/item/3256805772412203.html
+24 Screws M5x15mm
+   Link: https://www.aliexpress.us/item/2251832760640149.html
+
+Hands
+=====
+Still in development
+
+Legs
+====
+12 150kg 180 degree servos and 12 metal servo wheels 
+   Link: https://www.aliexpress.us/item/2251832054601335.html
+22 6808RS ball bearings 40x52x7 mm
+   Link: https://www.aliexpress.us/item/2251832634050198.html
+10 698RS Bearing 8x19x6 mm 
+   Link: https://www.aliexpress.us/item/2251832599531343.html
+10 Screw M8x25
+   Link: https://www.aliexpress.us/item/3256803556750651.html
+48  Screws M5x15mm
+   Link: https://www.aliexpress.us/item/2251832760640149.html   
